@@ -3,7 +3,7 @@ print("hello")
 
 print("feat test1  main")
 
-print("test 2")
+print("test 2 main")
 
 
 
