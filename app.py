@@ -21,4 +21,13 @@ git branch -M master
 
 git remote add origin <repositoy url>
 
+
+git checkout -b <new_branch_name --new branch
+git checkout <branch_name>
+git pull origin <branch_name>
+git merge <feature_branch_name>
+
+git diff <filename>
+
+
 """
