@@ -1,7 +1,7 @@
 print("hello")
 
 
-print("feat test1")
+print("feat test1  main")
 
 print("test 2")
 
@@ -28,6 +28,10 @@ git pull origin <branch_name>
 git merge <feature_branch_name>
 
 git diff <filename>
+
+"""
+conflict
+"""
 
 
 """
