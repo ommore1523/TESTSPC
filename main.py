@@ -3,7 +3,7 @@ Workspace area
 
 || ADD ||
 Staging Area
-|| COMMIT MAIN CHANGES||
+|| COMMIT FEAT MAIN ||
 
 Commit area
 
